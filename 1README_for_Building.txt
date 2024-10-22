@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=favicon.ico --add-data "C:\gdown\.venv\Lib\site-packages\sv_ttk;sv_ttk" progress_app.py
