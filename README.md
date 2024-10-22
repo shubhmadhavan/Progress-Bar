@@ -1,5 +1,5 @@
 # Progress-Bar
-A Minimalist, Portable and Light-weight Progress Bar Application for Windows.
+A Minimalist, Portable and Light-weight Progress Bar app for Windows.
 
 # Features
 -Basic Functionality: Assign Name, Progress and Total values to Task of Choice  
