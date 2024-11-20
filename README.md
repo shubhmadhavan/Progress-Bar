@@ -19,7 +19,9 @@ Download the Latest version from the "Releases" tab
 Note: The Releases section has the latest build uploaded. However, if one wishes to build locally. Simply download dependencies and build using the following:  
 `pyinstaller --onefile --windowed --icon=favicon.ico --add-data "sv_ttk;sv_ttk" progress_app.py`
 
-## Support
-I have nothing to plug here. Just keep working hard and making progress!  
+## Extra
+I have nothing to plug here. But here's a quote:
+> _"Continuous improvement is better than delayed perfection"._
+> ― Mark Twain 
 
 <img src="https://github.com/user-attachments/assets/d19c0b80-c5b3-4180-bdca-cb645edcd1ad" height="80" />
